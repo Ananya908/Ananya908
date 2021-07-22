@@ -1,1 +1,3 @@
-C++ = yes
+int main(){
+  
+}
